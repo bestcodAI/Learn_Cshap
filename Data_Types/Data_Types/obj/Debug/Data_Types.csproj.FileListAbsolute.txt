@@ -1,0 +1,8 @@
+E:\Learn C#\Data_Types\Data_Types\bin\Debug\Data_Types.exe.config
+E:\Learn C#\Data_Types\Data_Types\bin\Debug\Data_Types.exe
+E:\Learn C#\Data_Types\Data_Types\bin\Debug\Data_Types.pdb
+E:\Learn C#\Data_Types\Data_Types\obj\Debug\Data_Types.csproj.AssemblyReference.cache
+E:\Learn C#\Data_Types\Data_Types\obj\Debug\Data_Types.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Data_Types\Data_Types\obj\Debug\Data_Types.csproj.CoreCompileInputs.cache
+E:\Learn C#\Data_Types\Data_Types\obj\Debug\Data_Types.exe
+E:\Learn C#\Data_Types\Data_Types\obj\Debug\Data_Types.pdb

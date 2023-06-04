@@ -1,0 +1,8 @@
+E:\Learn C#\Type_casting\Type_casting\bin\Debug\Type_casting.exe.config
+E:\Learn C#\Type_casting\Type_casting\bin\Debug\Type_casting.exe
+E:\Learn C#\Type_casting\Type_casting\bin\Debug\Type_casting.pdb
+E:\Learn C#\Type_casting\Type_casting\obj\Debug\Type_casting.csproj.AssemblyReference.cache
+E:\Learn C#\Type_casting\Type_casting\obj\Debug\Type_casting.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Type_casting\Type_casting\obj\Debug\Type_casting.csproj.CoreCompileInputs.cache
+E:\Learn C#\Type_casting\Type_casting\obj\Debug\Type_casting.exe
+E:\Learn C#\Type_casting\Type_casting\obj\Debug\Type_casting.pdb

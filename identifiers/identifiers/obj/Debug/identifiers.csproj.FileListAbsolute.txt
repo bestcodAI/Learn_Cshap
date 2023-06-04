@@ -1,0 +1,8 @@
+E:\Learn C#\identifiers\identifiers\bin\Debug\identifiers.exe.config
+E:\Learn C#\identifiers\identifiers\bin\Debug\identifiers.exe
+E:\Learn C#\identifiers\identifiers\bin\Debug\identifiers.pdb
+E:\Learn C#\identifiers\identifiers\obj\Debug\identifiers.csproj.AssemblyReference.cache
+E:\Learn C#\identifiers\identifiers\obj\Debug\identifiers.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\identifiers\identifiers\obj\Debug\identifiers.csproj.CoreCompileInputs.cache
+E:\Learn C#\identifiers\identifiers\obj\Debug\identifiers.exe
+E:\Learn C#\identifiers\identifiers\obj\Debug\identifiers.pdb

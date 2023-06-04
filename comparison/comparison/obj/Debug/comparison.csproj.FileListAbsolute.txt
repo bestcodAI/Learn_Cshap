@@ -1,0 +1,8 @@
+E:\Learn C#\comparison\comparison\bin\Debug\comparison.exe.config
+E:\Learn C#\comparison\comparison\bin\Debug\comparison.exe
+E:\Learn C#\comparison\comparison\bin\Debug\comparison.pdb
+E:\Learn C#\comparison\comparison\obj\Debug\comparison.csproj.AssemblyReference.cache
+E:\Learn C#\comparison\comparison\obj\Debug\comparison.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\comparison\comparison\obj\Debug\comparison.csproj.CoreCompileInputs.cache
+E:\Learn C#\comparison\comparison\obj\Debug\comparison.exe
+E:\Learn C#\comparison\comparison\obj\Debug\comparison.pdb

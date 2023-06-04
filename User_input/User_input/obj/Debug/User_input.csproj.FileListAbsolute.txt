@@ -1,0 +1,8 @@
+E:\Learn C#\User_input\User_input\bin\Debug\User_input.exe.config
+E:\Learn C#\User_input\User_input\bin\Debug\User_input.exe
+E:\Learn C#\User_input\User_input\bin\Debug\User_input.pdb
+E:\Learn C#\User_input\User_input\obj\Debug\User_input.csproj.AssemblyReference.cache
+E:\Learn C#\User_input\User_input\obj\Debug\User_input.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\User_input\User_input\obj\Debug\User_input.csproj.CoreCompileInputs.cache
+E:\Learn C#\User_input\User_input\obj\Debug\User_input.exe
+E:\Learn C#\User_input\User_input\obj\Debug\User_input.pdb

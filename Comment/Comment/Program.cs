@@ -11,9 +11,9 @@ namespace Comment
         static void Main(string[] args)
         {
             // This comment line using single-line
-            Console.WriteLine("Hello Cambodia!!💕💕");
+            Console.WriteLine("Hello Cambodians!!💕💕");
             /* This is comments using multi-comment */
-            Console.WriteLine("My name is chamnna . I come from svayrieng province!❤✌👌");
+            Console.WriteLine("My name is chamnan . I come from svayrieng province!❤✌👌");
             Console.ReadKey();
         }
     }

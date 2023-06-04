@@ -1,0 +1,8 @@
+E:\Learn C#\assign_value\assign_value\bin\Debug\assign_value.exe.config
+E:\Learn C#\assign_value\assign_value\bin\Debug\assign_value.exe
+E:\Learn C#\assign_value\assign_value\bin\Debug\assign_value.pdb
+E:\Learn C#\assign_value\assign_value\obj\Debug\assign_value.csproj.AssemblyReference.cache
+E:\Learn C#\assign_value\assign_value\obj\Debug\assign_value.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\assign_value\assign_value\obj\Debug\assign_value.csproj.CoreCompileInputs.cache
+E:\Learn C#\assign_value\assign_value\obj\Debug\assign_value.exe
+E:\Learn C#\assign_value\assign_value\obj\Debug\assign_value.pdb

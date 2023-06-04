@@ -1,0 +1,8 @@
+E:\Learn C#\Varible\Varible\bin\Debug\Varible.exe.config
+E:\Learn C#\Varible\Varible\bin\Debug\Varible.exe
+E:\Learn C#\Varible\Varible\bin\Debug\Varible.pdb
+E:\Learn C#\Varible\Varible\obj\Debug\Varible.csproj.AssemblyReference.cache
+E:\Learn C#\Varible\Varible\obj\Debug\Varible.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Varible\Varible\obj\Debug\Varible.csproj.CoreCompileInputs.cache
+E:\Learn C#\Varible\Varible\obj\Debug\Varible.exe
+E:\Learn C#\Varible\Varible\obj\Debug\Varible.pdb

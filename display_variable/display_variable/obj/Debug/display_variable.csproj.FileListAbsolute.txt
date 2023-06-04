@@ -1,0 +1,8 @@
+E:\Learn C#\display_variable\display_variable\bin\Debug\display_variable.exe.config
+E:\Learn C#\display_variable\display_variable\bin\Debug\display_variable.exe
+E:\Learn C#\display_variable\display_variable\bin\Debug\display_variable.pdb
+E:\Learn C#\display_variable\display_variable\obj\Debug\display_variable.csproj.AssemblyReference.cache
+E:\Learn C#\display_variable\display_variable\obj\Debug\display_variable.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\display_variable\display_variable\obj\Debug\display_variable.csproj.CoreCompileInputs.cache
+E:\Learn C#\display_variable\display_variable\obj\Debug\display_variable.exe
+E:\Learn C#\display_variable\display_variable\obj\Debug\display_variable.pdb

@@ -1,0 +1,8 @@
+E:\Learn C#\multi_variable\multi_variable\bin\Debug\multi_variable.exe.config
+E:\Learn C#\multi_variable\multi_variable\bin\Debug\multi_variable.exe
+E:\Learn C#\multi_variable\multi_variable\bin\Debug\multi_variable.pdb
+E:\Learn C#\multi_variable\multi_variable\obj\Debug\multi_variable.csproj.AssemblyReference.cache
+E:\Learn C#\multi_variable\multi_variable\obj\Debug\multi_variable.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\multi_variable\multi_variable\obj\Debug\multi_variable.csproj.CoreCompileInputs.cache
+E:\Learn C#\multi_variable\multi_variable\obj\Debug\multi_variable.exe
+E:\Learn C#\multi_variable\multi_variable\obj\Debug\multi_variable.pdb
