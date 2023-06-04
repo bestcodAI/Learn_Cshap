@@ -1,0 +1,8 @@
+E:\Learn C#\Output\Output\bin\Debug\Output.exe.config
+E:\Learn C#\Output\Output\bin\Debug\Output.exe
+E:\Learn C#\Output\Output\bin\Debug\Output.pdb
+E:\Learn C#\Output\Output\obj\Debug\Output.csproj.AssemblyReference.cache
+E:\Learn C#\Output\Output\obj\Debug\Output.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Output\Output\obj\Debug\Output.csproj.CoreCompileInputs.cache
+E:\Learn C#\Output\Output\obj\Debug\Output.exe
+E:\Learn C#\Output\Output\obj\Debug\Output.pdb

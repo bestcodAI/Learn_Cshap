@@ -1,0 +1,8 @@
+E:\Learn C#\Comment\Comment\bin\Debug\Comment.exe.config
+E:\Learn C#\Comment\Comment\bin\Debug\Comment.exe
+E:\Learn C#\Comment\Comment\bin\Debug\Comment.pdb
+E:\Learn C#\Comment\Comment\obj\Debug\Comment.csproj.AssemblyReference.cache
+E:\Learn C#\Comment\Comment\obj\Debug\Comment.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Comment\Comment\obj\Debug\Comment.csproj.CoreCompileInputs.cache
+E:\Learn C#\Comment\Comment\obj\Debug\Comment.exe
+E:\Learn C#\Comment\Comment\obj\Debug\Comment.pdb
