@@ -1,0 +1,8 @@
+E:\Learn C#\Math\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+E:\Learn C#\Math\Math\obj\Debug\Math.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+E:\Learn C#\Math\Math\bin\Debug\Math.exe.config
+E:\Learn C#\Math\Math\bin\Debug\Math.exe
+E:\Learn C#\Math\Math\bin\Debug\Math.pdb
+E:\Learn C#\Math\Math\obj\Debug\Math.exe
+E:\Learn C#\Math\Math\obj\Debug\Math.pdb

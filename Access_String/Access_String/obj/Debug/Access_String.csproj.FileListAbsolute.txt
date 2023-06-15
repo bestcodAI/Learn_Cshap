@@ -1,0 +1,8 @@
+E:\Learn C#\Access_String\Access_String\bin\Debug\Access_String.exe.config
+E:\Learn C#\Access_String\Access_String\bin\Debug\Access_String.exe
+E:\Learn C#\Access_String\Access_String\bin\Debug\Access_String.pdb
+E:\Learn C#\Access_String\Access_String\obj\Debug\Access_String.csproj.AssemblyReference.cache
+E:\Learn C#\Access_String\Access_String\obj\Debug\Access_String.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Access_String\Access_String\obj\Debug\Access_String.csproj.CoreCompileInputs.cache
+E:\Learn C#\Access_String\Access_String\obj\Debug\Access_String.exe
+E:\Learn C#\Access_String\Access_String\obj\Debug\Access_String.pdb

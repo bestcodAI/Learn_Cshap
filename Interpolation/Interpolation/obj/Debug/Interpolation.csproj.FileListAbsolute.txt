@@ -1,0 +1,8 @@
+E:\Learn C#\Interpolation\Interpolation\bin\Debug\Interpolation.exe.config
+E:\Learn C#\Interpolation\Interpolation\bin\Debug\Interpolation.exe
+E:\Learn C#\Interpolation\Interpolation\bin\Debug\Interpolation.pdb
+E:\Learn C#\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.AssemblyReference.cache
+E:\Learn C#\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Interpolation\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+E:\Learn C#\Interpolation\Interpolation\obj\Debug\Interpolation.exe
+E:\Learn C#\Interpolation\Interpolation\obj\Debug\Interpolation.pdb

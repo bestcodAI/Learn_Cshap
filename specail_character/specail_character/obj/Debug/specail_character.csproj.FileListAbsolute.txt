@@ -1,0 +1,8 @@
+E:\Learn C#\specail_character\specail_character\bin\Debug\specail_character.exe.config
+E:\Learn C#\specail_character\specail_character\bin\Debug\specail_character.exe
+E:\Learn C#\specail_character\specail_character\bin\Debug\specail_character.pdb
+E:\Learn C#\specail_character\specail_character\obj\Debug\specail_character.csproj.AssemblyReference.cache
+E:\Learn C#\specail_character\specail_character\obj\Debug\specail_character.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\specail_character\specail_character\obj\Debug\specail_character.csproj.CoreCompileInputs.cache
+E:\Learn C#\specail_character\specail_character\obj\Debug\specail_character.exe
+E:\Learn C#\specail_character\specail_character\obj\Debug\specail_character.pdb

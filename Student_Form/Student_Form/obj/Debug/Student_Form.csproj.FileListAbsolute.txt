@@ -1,0 +1,12 @@
+E:\Learn C#\Student_Form\Student_Form\bin\Debug\Student_Form.exe.config
+E:\Learn C#\Student_Form\Student_Form\bin\Debug\Student_Form.exe
+E:\Learn C#\Student_Form\Student_Form\bin\Debug\Student_Form.pdb
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.csproj.AssemblyReference.cache
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.Form1.resources
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.Properties.Resources.resources
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.csproj.GenerateResource.cache
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.csproj.CoreCompileInputs.cache
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.exe
+E:\Learn C#\Student_Form\Student_Form\obj\Debug\Student_Form.pdb
+E:\Learn C#\Student_Form\Student_Form\bin\Debug\db_students.accdb

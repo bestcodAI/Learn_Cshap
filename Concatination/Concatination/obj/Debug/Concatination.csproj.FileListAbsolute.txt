@@ -1,0 +1,8 @@
+E:\Learn C#\Concatination\Concatination\bin\Debug\Concatination.exe.config
+E:\Learn C#\Concatination\Concatination\bin\Debug\Concatination.exe
+E:\Learn C#\Concatination\Concatination\bin\Debug\Concatination.pdb
+E:\Learn C#\Concatination\Concatination\obj\Debug\Concatination.csproj.AssemblyReference.cache
+E:\Learn C#\Concatination\Concatination\obj\Debug\Concatination.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Concatination\Concatination\obj\Debug\Concatination.csproj.CoreCompileInputs.cache
+E:\Learn C#\Concatination\Concatination\obj\Debug\Concatination.exe
+E:\Learn C#\Concatination\Concatination\obj\Debug\Concatination.pdb

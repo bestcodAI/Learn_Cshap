@@ -1,0 +1,12 @@
+E:\Learn C#\ContactPhone\ContactPhone\bin\Debug\ContactPhone.exe.config
+E:\Learn C#\ContactPhone\ContactPhone\bin\Debug\ContactPhone.exe
+E:\Learn C#\ContactPhone\ContactPhone\bin\Debug\ContactPhone.pdb
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.csproj.AssemblyReference.cache
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.Form1.resources
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.Properties.Resources.resources
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.csproj.GenerateResource.cache
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.csproj.CoreCompileInputs.cache
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.exe
+E:\Learn C#\ContactPhone\ContactPhone\obj\Debug\ContactPhone.pdb
+E:\Learn C#\ContactPhone\ContactPhone\bin\Debug\db_database.accdb

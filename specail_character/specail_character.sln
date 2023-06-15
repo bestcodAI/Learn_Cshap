@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "specail_character", "specail_character\specail_character.csproj", "{36312FFA-55BC-4D58-BF82-02F03653F30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36312FFA-55BC-4D58-BF82-02F03653F30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36312FFA-55BC-4D58-BF82-02F03653F30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36312FFA-55BC-4D58-BF82-02F03653F30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36312FFA-55BC-4D58-BF82-02F03653F30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A2FE651-4F9E-4CC8-8DA3-DF089DCDEAB6}
+	EndGlobalSection
+EndGlobal

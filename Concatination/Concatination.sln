@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatination", "Concatination\Concatination.csproj", "{FEA816EB-0495-4DE5-95E4-1182BF7AE61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA816EB-0495-4DE5-95E4-1182BF7AE61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA816EB-0495-4DE5-95E4-1182BF7AE61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA816EB-0495-4DE5-95E4-1182BF7AE61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA816EB-0495-4DE5-95E4-1182BF7AE61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA2D51B-B058-457F-87EC-923E88167D42}
+	EndGlobalSection
+EndGlobal

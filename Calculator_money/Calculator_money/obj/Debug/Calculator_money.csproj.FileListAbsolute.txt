@@ -1,0 +1,11 @@
+E:\Learn C#\Calculator_money\Calculator_money\bin\Debug\Calculator_money.exe.config
+E:\Learn C#\Calculator_money\Calculator_money\bin\Debug\Calculator_money.exe
+E:\Learn C#\Calculator_money\Calculator_money\bin\Debug\Calculator_money.pdb
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.csproj.AssemblyReference.cache
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.Form1.resources
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.Properties.Resources.resources
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.csproj.GenerateResource.cache
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.csproj.CoreCompileInputs.cache
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.exe
+E:\Learn C#\Calculator_money\Calculator_money\obj\Debug\Calculator_money.pdb

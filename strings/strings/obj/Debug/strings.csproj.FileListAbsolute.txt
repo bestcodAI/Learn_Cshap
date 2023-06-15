@@ -1,0 +1,8 @@
+E:\Learn C#\strings\strings\bin\Debug\strings.exe.config
+E:\Learn C#\strings\strings\bin\Debug\strings.exe
+E:\Learn C#\strings\strings\bin\Debug\strings.pdb
+E:\Learn C#\strings\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+E:\Learn C#\strings\strings\obj\Debug\strings.csproj.SuggestedBindingRedirects.cache
+E:\Learn C#\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+E:\Learn C#\strings\strings\obj\Debug\strings.exe
+E:\Learn C#\strings\strings\obj\Debug\strings.pdb
